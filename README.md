@@ -41,6 +41,9 @@ $ npm i -g @vue/cli
 ```
 $ vue create hello-vue
 # choose "defaults" from the prompt
+```
+
+```
 $ cd hello-vue
 $ npm install
 $ npm run build
